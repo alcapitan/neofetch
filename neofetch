@@ -10324,7 +10324,7 @@ EOF
         ;;
 
         "Samantha")
-            set_colors 1 1 3 7
+            set_colors 1 1 9 9 9 15
             read -rd '' ascii_data <<'EOF'
 ${c2}                   ..                   
                    ...                  
